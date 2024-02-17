@@ -1,0 +1,14 @@
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\bin\Debug\net8.0\firstexam.exe
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\bin\Debug\net8.0\firstexam.deps.json
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\bin\Debug\net8.0\firstexam.runtimeconfig.json
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\bin\Debug\net8.0\firstexam.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\bin\Debug\net8.0\firstexam.pdb
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\obj\Debug\net8.0\firstexam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\obj\Debug\net8.0\firstexam.AssemblyInfoInputs.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\obj\Debug\net8.0\firstexam.AssemblyInfo.cs
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\obj\Debug\net8.0\firstexam.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\obj\Debug\net8.0\firstexam.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\obj\Debug\net8.0\refint\firstexam.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\obj\Debug\net8.0\firstexam.pdb
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\obj\Debug\net8.0\firstexam.genruntimeconfig.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week1\Exam\firstexam\obj\Debug\net8.0\ref\firstexam.dll
